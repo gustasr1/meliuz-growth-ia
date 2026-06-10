@@ -1,0 +1,15 @@
+# Ignora amb virtuais
+venv/
+env/
+
+# Ignora pastas de dados
+data/processed/
+
+# Ignora chaves e credenciais
+.env
+credentials/
+
+# Ignora lixo do python
+__pycache__/
+*.pyc
+.DS_Store

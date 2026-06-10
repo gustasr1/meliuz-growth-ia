@@ -7,7 +7,7 @@ data/processed/
 
 # Ignora chaves e credenciais
 .env
-credentials/
+credenciais.json
 
 # Ignora lixo do python
 __pycache__/
